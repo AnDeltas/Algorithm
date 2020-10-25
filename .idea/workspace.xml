@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68247e7c-f6fb-41cf-bfc2-4c1dfe7bdee2" name="Default Changelist" comment="Default Changelist">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iEoBbccKL1izrc8LtUBbsUxKPH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hello" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Algorithm/Basic/JavaBasic1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Coprime">
+    <configuration name="Coprime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Basic.Coprime" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Sort.InsertionSort" />
+      <module name="Algorithm" />
+      <option name="PROGRAM_PARAMETERS" value="Note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.Basic.JavaBasic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tool.Fromfile.getInt" />
+      <module name="Algorithm" />
+      <option name="PROGRAM_PARAMETERS" value="Note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tool.Fromfile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ln" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Basic.ln" />
+      <module name="Algorithm" />
+      <option name="PROGRAM_PARAMETERS" value="Note" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.Coprime" />
+      <item itemvalue="应用程序.InsertionSort" />
+      <item itemvalue="应用程序.getInt" />
+      <item itemvalue="应用程序.ln" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ln" />
+        <item itemvalue="应用程序.getInt" />
+        <item itemvalue="应用程序.InsertionSort" />
+        <item itemvalue="应用程序.Coprime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68247e7c-f6fb-41cf-bfc2-4c1dfe7bdee2" name="Default Changelist" comment="" />
+      <created>1601481979074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601481979074</updated>
+      <workItem from="1601481980100" duration="1178000" />
+      <workItem from="1601483167623" duration="386000" />
+      <workItem from="1601483564786" duration="182000" />
+      <workItem from="1601483757931" duration="43000" />
+      <workItem from="1601483809802" duration="478000" />
+      <workItem from="1601521744702" duration="391000" />
+      <workItem from="1601526797706" duration="5939000" />
+      <workItem from="1601615275394" duration="10142000" />
+      <workItem from="1601650298885" duration="251000" />
+      <workItem from="1601706719709" duration="306000" />
+      <workItem from="1601716871415" duration="789000" />
+      <workItem from="1601899863741" duration="4603000" />
+      <workItem from="1601956421396" duration="18515000" />
+      <workItem from="1602084898738" duration="309000" />
+      <workItem from="1602085307758" duration="208000" />
+      <workItem from="1602139201013" duration="5907000" />
+      <workItem from="1602507804905" duration="18000" />
+      <workItem from="1602507832473" duration="4016000" />
+      <workItem from="1602575284728" duration="2562000" />
+      <workItem from="1602600232488" duration="2166000" />
+      <workItem from="1602653545986" duration="8366000" />
+      <workItem from="1602769170108" duration="5792000" />
+      <workItem from="1602834853124" duration="7636000" />
+      <workItem from="1602850023312" duration="38000" />
+      <workItem from="1602850811628" duration="2940000" />
+      <workItem from="1602862909778" duration="326000" />
+      <workItem from="1602926334480" duration="1588000" />
+      <workItem from="1603003271351" duration="2822000" />
+      <workItem from="1603007585229" duration="7181000" />
+      <workItem from="1603029724251" duration="4083000" />
+      <workItem from="1603069062256" duration="87000" />
+      <workItem from="1603069158089" duration="203000" />
+      <workItem from="1603069370817" duration="2219000" />
+      <workItem from="1603090103903" duration="6731000" />
+      <workItem from="1603166747532" duration="5345000" />
+      <workItem from="1603446994855" duration="7333000" />
+      <workItem from="1603469989844" duration="2896000" />
+      <workItem from="1603631562784" duration="75000" />
+      <workItem from="1603631647623" duration="417000" />
+      <workItem from="1603632084285" duration="1907000" />
+    </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1603470632792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603470632792</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1603471190270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603471190270</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1603471419353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603471419353</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="28" width="1200" height="1052" key="#Plugins" timestamp="1603069146510">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="338" y="28" width="1200" height="1052" key="#Plugins/0.28.1920.1052@0.28.1920.1052" timestamp="1603069146510" />
+    <state x="825" y="340" width="832" height="637" key="#Vim_Emulation" timestamp="1602575387599">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="825" y="340" width="832" height="637" key="#Vim_Emulation/0.28.1920.1052@0.28.1920.1052" timestamp="1602575387599" />
+    <state x="395" y="28" width="1404" height="1052" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603180390354">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="395" y="28" width="1404" height="1052" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1603180390354" />
+    <state x="485" y="305" width="970" height="470" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603003552609">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="485" y="305" width="970" height="470" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1603003552609" />
+    <state x="658" y="121" width="561" height="937" key="#com.intellij.ide.util.MemberChooser" timestamp="1601706764431">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="658" y="121" width="561" height="937" key="#com.intellij.ide.util.MemberChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1601706764431" />
+    <state x="599" y="392" width="743" height="299" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602835480703">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="599" y="392" width="743" height="299" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.28.1920.1052@0.28.1920.1052" timestamp="1602835480703" />
+    <state x="599" y="409" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1602835528929">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="599" y="409" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.28.1920.1052@0.28.1920.1052" timestamp="1602835528929" />
+    <state x="602" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602661510790">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="602" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1602661510790" />
+    <state x="567" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603034263172">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="567" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1603034263172" />
+    <state x="567" y="178" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1603179836721">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="567" y="178" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1603179836721" />
+    <state x="142" y="93" width="1507" height="836" maximized="true" key="DiffContextDialog" timestamp="1603634859913">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="142" y="93" width="1507" height="836" maximized="true" key="DiffContextDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1603634859913" />
+    <state x="652" y="173" key="FileChooserDialogImpl" timestamp="1602843412926">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="652" y="173" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1602843412926" />
+    <state x="828" y="399" key="Github.ShareDialog" timestamp="1603470564048">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="828" y="399" key="Github.ShareDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1603470564047" />
+    <state x="599" y="80" key="Github.UntrackedFilesDialog" timestamp="1603470597472">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="599" y="80" key="Github.UntrackedFilesDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1603470597472" />
+    <state width="1643" height="429" key="GridCell.Tab.0.bottom" timestamp="1603469687134">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1643" height="429" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1603469687134" />
+    <state width="1643" height="429" key="GridCell.Tab.0.center" timestamp="1603469687133">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1643" height="429" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1603469687133" />
+    <state width="1643" height="429" key="GridCell.Tab.0.left" timestamp="1603469687133">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1643" height="429" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1603469687133" />
+    <state width="1643" height="429" key="GridCell.Tab.0.right" timestamp="1603469687133">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1643" height="429" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1603469687133" />
+    <state width="1856" height="308" key="GridCell.Tab.1.bottom" timestamp="1603180392379">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1856" height="308" key="GridCell.Tab.1.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1603180392379" />
+    <state width="1856" height="308" key="GridCell.Tab.1.center" timestamp="1603180392378">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1856" height="308" key="GridCell.Tab.1.center/0.28.1920.1052@0.28.1920.1052" timestamp="1603180392378" />
+    <state width="1856" height="308" key="GridCell.Tab.1.left" timestamp="1603180392378">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1856" height="308" key="GridCell.Tab.1.left/0.28.1920.1052@0.28.1920.1052" timestamp="1603180392378" />
+    <state width="1856" height="308" key="GridCell.Tab.1.right" timestamp="1603180392378">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1856" height="308" key="GridCell.Tab.1.right/0.28.1920.1052@0.28.1920.1052" timestamp="1603180392378" />
+    <state x="268" y="28" key="SettingsEditor" timestamp="1603632065213">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="268" y="28" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1603632065213" />
+    <state x="389" y="151" key="Vcs.Push.Dialog.v2" timestamp="1603471424285">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="389" y="151" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1603471424285" />
+    <state x="351" y="56" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603178034383">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="351" y="56" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1603178034383" />
+    <state x="707" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603471590655">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="707" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052@0.28.1920.1052" timestamp="1603471590655" />
+    <state x="219" y="141" width="1482" height="908" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601644822127">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="219" y="141" width="1482" height="908" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.28.1920.1052@0.28.1920.1052" timestamp="1601644822127" />
+    <state x="0" y="28" width="747" height="1052" key="find.popup" timestamp="1603178030644">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="0" y="28" width="747" height="1052" key="find.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1603178030644" />
+    <state x="418" y="28" width="1036" height="1470" key="search.everywhere.popup" timestamp="1603470792617">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="418" y="28" width="1036" height="1470" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1603470792617" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
