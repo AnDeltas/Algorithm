@@ -20,8 +20,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68247e7c-f6fb-41cf-bfc2-4c1dfe7bdee2" name="Default Changelist" comment="Default Changelist">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="68247e7c-f6fb-41cf-bfc2-4c1dfe7bdee2" name="Default Changelist" comment="工程文件">
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/Sort/QuicklySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,15 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -195,7 +194,8 @@
       <workItem from="1603469989844" duration="2896000" />
       <workItem from="1603631562784" duration="75000" />
       <workItem from="1603631647623" duration="417000" />
-      <workItem from="1603632084285" duration="1907000" />
+      <workItem from="1603632084285" duration="3575000" />
+      <workItem from="1603882729156" duration="6109000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1603470632792</created>
@@ -218,7 +218,28 @@
       <option name="project" value="LOCAL" />
       <updated>1603471419353</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1603634950637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603634950638</updated>
+    </task>
+    <task id="LOCAL-00005" summary="工程文件">
+      <created>1603634982545</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603634982545</updated>
+    </task>
+    <task id="LOCAL-00006" summary="工程文件">
+      <created>1603634997485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603634997485</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +269,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+    <MESSAGE value="工程文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="工程文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="338" y="28" width="1200" height="1052" key="#Plugins" timestamp="1603069146510">
@@ -343,18 +365,18 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="268" y="28" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1603632065213" />
-    <state x="389" y="151" key="Vcs.Push.Dialog.v2" timestamp="1603471424285">
+    <state x="389" y="151" key="Vcs.Push.Dialog.v2" timestamp="1603635016749">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="389" y="151" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1603471424285" />
+    <state x="389" y="151" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1603635016749" />
     <state x="351" y="56" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603178034383">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="351" y="56" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1603178034383" />
-    <state x="707" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603471590655">
+    <state x="707" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603635056817">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="707" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052@0.28.1920.1052" timestamp="1603471590655" />
+    <state x="707" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052@0.28.1920.1052" timestamp="1603635056817" />
     <state x="219" y="141" width="1482" height="908" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601644822127">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
