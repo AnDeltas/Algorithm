@@ -1,5 +1,7 @@
 package LeetCode;
 
+import java.util.HashMap;
+
 /**
  * 给你一个整数数组arr，请你帮忙统计数组中每个数的出现次数。
  *
@@ -13,5 +15,15 @@ package LeetCode;
  *
  */
 public class Num {
-    // TODO
+    public static boolean uniqueOccurrences(int[] arr) {
+        HashMap<Integer, Integer> tmp = new HashMap<>();
+        for (int i : arr) {
+            Integer ele = tmp.get(i);
+            tmp.put(i, ele == null ? 1 : ele + 1);
+        }
+        return tmp.size() == tmp.values().stream().distinct().count();
+    }
+    public static void main(String[] args) {
+        System.out.println(uniqueOccurrences(new int[]{1, 2, 2, 1, 1, 3}));
+    }
 }

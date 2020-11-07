@@ -21,8 +21,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68247e7c-f6fb-41cf-bfc2-4c1dfe7bdee2" name="Default Changelist" comment="工程文件">
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/Sort/QuicklySort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm/Basic/ln.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/Basic/ln.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Num.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +59,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Algorithm/Basic/JavaBasic1" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Coprime">
+  <component name="RunManager" selected="应用程序.Num">
     <configuration name="Coprime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithm.Basic.Coprime" />
       <module name="Algorithm" />
@@ -86,6 +87,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Algorithm.Basic.JavaBasic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Num" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +135,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,9 +153,11 @@
       <item itemvalue="应用程序.InsertionSort" />
       <item itemvalue="应用程序.getInt" />
       <item itemvalue="应用程序.ln" />
+      <item itemvalue="应用程序.Num" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Num" />
         <item itemvalue="应用程序.ln" />
         <item itemvalue="应用程序.getInt" />
         <item itemvalue="应用程序.InsertionSort" />
@@ -277,9 +295,10 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="338" y="28" width="1200" height="1052" key="#Plugins/0.28.1920.1052@0.28.1920.1052" timestamp="1603069146510" />
-    <state x="825" y="340" width="832" height="637" key="#Vim_Emulation" timestamp="1602575387599">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="880" y="342" width="832" height="637" key="#Vim_Emulation" timestamp="1604723119673">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
+    <state x="880" y="342" key="#Vim_Emulation/-1920.0.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1604723119673" />
     <state x="825" y="340" width="832" height="637" key="#Vim_Emulation/0.28.1920.1052@0.28.1920.1052" timestamp="1602575387599" />
     <state x="395" y="28" width="1404" height="1052" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603180390354">
       <screen x="0" y="28" width="1920" height="1052" />
@@ -361,17 +380,19 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state width="1856" height="308" key="GridCell.Tab.1.right/0.28.1920.1052@0.28.1920.1052" timestamp="1603180392378" />
-    <state x="268" y="28" key="SettingsEditor" timestamp="1603632065213">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="286" y="0" key="SettingsEditor" timestamp="1604723204144">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
+    <state x="286" y="0" key="SettingsEditor/-1920.0.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1604723204144" />
     <state x="268" y="28" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1603632065213" />
     <state x="389" y="151" key="Vcs.Push.Dialog.v2" timestamp="1603635016749">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="389" y="151" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1603635016749" />
-    <state x="351" y="56" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603178034383">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="-1639" y="23" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604723652982">
+      <screen x="-1920" y="0" width="1536" height="864" />
     </state>
+    <state x="-1639" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1536.864/0.0.2048.1152@-1920.0.1536.864" timestamp="1604723652982" />
     <state x="351" y="56" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1603178034383" />
     <state x="707" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603635056817">
       <screen x="0" y="28" width="1920" height="1052" />
