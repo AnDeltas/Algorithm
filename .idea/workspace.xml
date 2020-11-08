@@ -20,10 +20,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68247e7c-f6fb-41cf-bfc2-4c1dfe7bdee2" name="Default Changelist" comment="工程文件">
+    <list default="true" id="68247e7c-f6fb-41cf-bfc2-4c1dfe7bdee2" name="Default Changelist" comment="添加LeetCode目录">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/Basic/ln.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/Basic/ln.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm/Sort/QuicklySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/Sort/QuicklySort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +58,14 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Algorithm/Basic/JavaBasic1" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Num">
+  <component name="RunManager" selected="应用程序.Coprime">
     <configuration name="Coprime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithm.Basic.Coprime" />
       <module name="Algorithm" />
@@ -87,19 +86,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Algorithm.Basic.JavaBasic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Num" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,15 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,11 +137,9 @@
       <item itemvalue="应用程序.InsertionSort" />
       <item itemvalue="应用程序.getInt" />
       <item itemvalue="应用程序.ln" />
-      <item itemvalue="应用程序.Num" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Num" />
         <item itemvalue="应用程序.ln" />
         <item itemvalue="应用程序.getInt" />
         <item itemvalue="应用程序.InsertionSort" />
@@ -214,6 +196,7 @@
       <workItem from="1603631647623" duration="417000" />
       <workItem from="1603632084285" duration="3575000" />
       <workItem from="1603882729156" duration="6109000" />
+      <workItem from="1604814475943" duration="420000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1603470632792</created>
@@ -291,14 +274,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="工程文件" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2848" y="493" key="#Notifications" timestamp="1604814445420">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2848" y="493" key="#Notifications/0.28.1920.1052/1920.0.2560.1440@1920.0.2560.1440" timestamp="1604814445420" />
     <state x="338" y="28" width="1200" height="1052" key="#Plugins" timestamp="1603069146510">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="338" y="28" width="1200" height="1052" key="#Plugins/0.28.1920.1052@0.28.1920.1052" timestamp="1603069146510" />
-    <state x="880" y="342" width="832" height="637" key="#Vim_Emulation" timestamp="1604723119673">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state x="825" y="340" width="832" height="637" key="#Vim_Emulation" timestamp="1602575387599">
+      <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="880" y="342" key="#Vim_Emulation/-1920.0.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1604723119673" />
     <state x="825" y="340" width="832" height="637" key="#Vim_Emulation/0.28.1920.1052@0.28.1920.1052" timestamp="1602575387599" />
     <state x="395" y="28" width="1404" height="1052" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603180390354">
       <screen x="0" y="28" width="1920" height="1052" />
@@ -332,7 +318,7 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="567" y="178" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1603179836721" />
-    <state x="142" y="93" width="1507" height="836" maximized="true" key="DiffContextDialog" timestamp="1603634859913">
+    <state x="142" y="93" width="1507" height="836" maximized="true" key="DiffContextDialog" timestamp="1604814895893">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="142" y="93" width="1507" height="836" maximized="true" key="DiffContextDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1603634859913" />
@@ -380,23 +366,27 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state width="1856" height="308" key="GridCell.Tab.1.right/0.28.1920.1052@0.28.1920.1052" timestamp="1603180392378" />
-    <state x="286" y="0" key="SettingsEditor" timestamp="1604723204144">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state x="2877" y="271" key="RollbackChangesDialog" timestamp="1604814667748">
+      <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="286" y="0" key="SettingsEditor/-1920.0.1536.864/0.0.2048.1152@0.0.2048.1152" timestamp="1604723204144" />
+    <state x="2877" y="271" key="RollbackChangesDialog/0.28.1920.1052/1920.0.2560.1440@1920.0.2560.1440" timestamp="1604814667748" />
+    <state x="268" y="28" key="SettingsEditor" timestamp="1603632065213">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
     <state x="268" y="28" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1603632065213" />
     <state x="389" y="151" key="Vcs.Push.Dialog.v2" timestamp="1603635016749">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="389" y="151" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1603635016749" />
-    <state x="-1639" y="23" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604723652982">
-      <screen x="-1920" y="0" width="1536" height="864" />
+    <state x="2388" y="38" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604814571604">
+      <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="-1639" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1536.864/0.0.2048.1152@-1920.0.1536.864" timestamp="1604723652982" />
+    <state x="2388" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052/1920.0.2560.1440@1920.0.2560.1440" timestamp="1604814571604" />
     <state x="351" y="56" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1603178034383" />
-    <state x="707" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603635056817">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="2863" y="545" width="558" height="239" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604814599306">
+      <screen x="1920" y="0" width="2560" height="1440" />
     </state>
+    <state x="2863" y="545" width="558" height="239" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052/1920.0.2560.1440@1920.0.2560.1440" timestamp="1604814599306" />
     <state x="707" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.28.1920.1052@0.28.1920.1052" timestamp="1603635056817" />
     <state x="219" y="141" width="1482" height="908" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601644822127">
       <screen x="0" y="28" width="1920" height="1052" />
