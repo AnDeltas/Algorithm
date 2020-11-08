@@ -24,6 +24,7 @@ public class Num {
         return tmp.size() == tmp.values().stream().distinct().count();
     }
     public static void main(String[] args) {
+        // 测试函数
         System.out.println(uniqueOccurrences(new int[]{1, 2, 2, 1, 1, 3}));
     }
 }

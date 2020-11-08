@@ -21,8 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68247e7c-f6fb-41cf-bfc2-4c1dfe7bdee2" name="Default Changelist" comment="添加LeetCode目录">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/Sort/QuicklySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/Sort/QuicklySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Num.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +195,7 @@
       <workItem from="1603631647623" duration="417000" />
       <workItem from="1603632084285" duration="3575000" />
       <workItem from="1603882729156" duration="6109000" />
-      <workItem from="1604814475943" duration="420000" />
+      <workItem from="1604814475943" duration="1287000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1603470632792</created>
@@ -240,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603634997485</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加LeetCode目录">
+      <created>1604814995477</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604814995477</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +277,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="工程文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="工程文件" />
+    <MESSAGE value="添加LeetCode目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加LeetCode目录" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2848" y="493" key="#Notifications" timestamp="1604814445420">
@@ -374,9 +381,10 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="268" y="28" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1603632065213" />
-    <state x="389" y="151" key="Vcs.Push.Dialog.v2" timestamp="1603635016749">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="2439" y="168" key="Vcs.Push.Dialog.v2" timestamp="1604815009717">
+      <screen x="1920" y="0" width="2560" height="1440" />
     </state>
+    <state x="2439" y="168" key="Vcs.Push.Dialog.v2/0.28.1920.1052/1920.0.2560.1440@1920.0.2560.1440" timestamp="1604815009717" />
     <state x="389" y="151" key="Vcs.Push.Dialog.v2/0.28.1920.1052@0.28.1920.1052" timestamp="1603635016749" />
     <state x="2388" y="38" width="1236" height="922" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604814571604">
       <screen x="1920" y="0" width="2560" height="1440" />
