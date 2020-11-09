@@ -8,7 +8,6 @@ public class ln {
         if (n == 1) return 0;
         return Math.log(n) + getLn(n - 1);
     }
-    
     public static void main(String[] args) {
         System.out.println(getLn(7));
     }
